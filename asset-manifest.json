@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tmddnjs2385/syncfusion-react-pdf/static/css/main.ffa29014.chunk.css",
-    "main.js": "/tmddnjs2385/syncfusion-react-pdf/static/js/main.df626cf2.chunk.js",
-    "main.js.map": "/tmddnjs2385/syncfusion-react-pdf/static/js/main.df626cf2.chunk.js.map",
-    "runtime-main.js": "/tmddnjs2385/syncfusion-react-pdf/static/js/runtime-main.20aca29a.js",
-    "runtime-main.js.map": "/tmddnjs2385/syncfusion-react-pdf/static/js/runtime-main.20aca29a.js.map",
-    "static/css/2.7ce7200d.chunk.css": "/tmddnjs2385/syncfusion-react-pdf/static/css/2.7ce7200d.chunk.css",
-    "static/js/2.d7ae1162.chunk.js": "/tmddnjs2385/syncfusion-react-pdf/static/js/2.d7ae1162.chunk.js",
-    "static/js/2.d7ae1162.chunk.js.map": "/tmddnjs2385/syncfusion-react-pdf/static/js/2.d7ae1162.chunk.js.map",
-    "index.html": "/tmddnjs2385/syncfusion-react-pdf/index.html",
-    "precache-manifest.e4bd6991e5ba6d98db8748e7f9b5a5b9.js": "/tmddnjs2385/syncfusion-react-pdf/precache-manifest.e4bd6991e5ba6d98db8748e7f9b5a5b9.js",
-    "service-worker.js": "/tmddnjs2385/syncfusion-react-pdf/service-worker.js",
-    "static/css/2.7ce7200d.chunk.css.map": "/tmddnjs2385/syncfusion-react-pdf/static/css/2.7ce7200d.chunk.css.map",
-    "static/css/main.ffa29014.chunk.css.map": "/tmddnjs2385/syncfusion-react-pdf/static/css/main.ffa29014.chunk.css.map",
-    "static/js/2.d7ae1162.chunk.js.LICENSE.txt": "/tmddnjs2385/syncfusion-react-pdf/static/js/2.d7ae1162.chunk.js.LICENSE.txt"
+    "main.css": "/syncfusion-react-pdf/static/css/main.ffa29014.chunk.css",
+    "main.js": "/syncfusion-react-pdf/static/js/main.bf478e69.chunk.js",
+    "main.js.map": "/syncfusion-react-pdf/static/js/main.bf478e69.chunk.js.map",
+    "runtime-main.js": "/syncfusion-react-pdf/static/js/runtime-main.4d610a56.js",
+    "runtime-main.js.map": "/syncfusion-react-pdf/static/js/runtime-main.4d610a56.js.map",
+    "static/css/2.7ce7200d.chunk.css": "/syncfusion-react-pdf/static/css/2.7ce7200d.chunk.css",
+    "static/js/2.d7ae1162.chunk.js": "/syncfusion-react-pdf/static/js/2.d7ae1162.chunk.js",
+    "static/js/2.d7ae1162.chunk.js.map": "/syncfusion-react-pdf/static/js/2.d7ae1162.chunk.js.map",
+    "index.html": "/syncfusion-react-pdf/index.html",
+    "precache-manifest.3ba01d6f9e96ea485548e4fd23b9d2f5.js": "/syncfusion-react-pdf/precache-manifest.3ba01d6f9e96ea485548e4fd23b9d2f5.js",
+    "service-worker.js": "/syncfusion-react-pdf/service-worker.js",
+    "static/css/2.7ce7200d.chunk.css.map": "/syncfusion-react-pdf/static/css/2.7ce7200d.chunk.css.map",
+    "static/css/main.ffa29014.chunk.css.map": "/syncfusion-react-pdf/static/css/main.ffa29014.chunk.css.map",
+    "static/js/2.d7ae1162.chunk.js.LICENSE.txt": "/syncfusion-react-pdf/static/js/2.d7ae1162.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.20aca29a.js",
+    "static/js/runtime-main.4d610a56.js",
     "static/css/2.7ce7200d.chunk.css",
     "static/js/2.d7ae1162.chunk.js",
     "static/css/main.ffa29014.chunk.css",
-    "static/js/main.df626cf2.chunk.js"
+    "static/js/main.bf478e69.chunk.js"
   ]
 }
